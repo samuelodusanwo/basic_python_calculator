@@ -29,7 +29,6 @@ To run this Python calculator on your local machine:
     git clone https://github.com/samuelodusanwo/basic_python_calculator.git
     cd your-repo-name # Navigate into the project directory
     ```
-    *(Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.)*
 
 2.  **Execute the Python Script:**
     ```bash
